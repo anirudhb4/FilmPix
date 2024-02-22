@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmPix/static/css/main.28e86706.css",
+    "main.js": "/FilmPix/static/js/main.a533dbaa.js",
+    "index.html": "/FilmPix/index.html",
+    "static/media/search.svg": "/FilmPix/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.28e86706.css.map": "/FilmPix/static/css/main.28e86706.css.map",
+    "main.a533dbaa.js.map": "/FilmPix/static/js/main.a533dbaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e86706.css",
+    "static/js/main.a533dbaa.js"
+  ]
+}
