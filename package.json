@@ -1,7 +1,6 @@
 {
   "name": "react_project",
   "version": "0.1.0",
-  "homepage": "https://anirudhb4.github.io/FilmPix",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
